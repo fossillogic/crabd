@@ -41,4 +41,4 @@ RUN meson test -C builddir
 RUN meson install -C builddir
 
 # Set the entrypoint
-ENTRYPOINT ["/usr/local/bin/app"]
+ENTRYPOINT ["/usr/local/bin/crabd"]
