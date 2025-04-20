@@ -40,8 +40,8 @@ Ensure you have the following installed before starting:
 1. **Clone the Repository**:
 
     ```sh
-    git clone https://github.com/fossillogic/fossil-app.git
-    cd fossil-app
+    git clone https://github.com/fossillogic/crabd.git
+    cd crabd
     ```
 
 2. **Configure the Build**:
